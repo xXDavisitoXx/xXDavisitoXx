@@ -24,3 +24,6 @@ Here are some ideas to get you started:
   <img width=44% src="https://github-readme-stats-five-gules-89.vercel.app/api/top-langs/?username=XXDavisitoXX&layout=compact&theme=neon&show_icons=true&count_private=true"/>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/xXDavisitoXx/repo-metrics/master/github-metrics.svg"/>
+</div>
