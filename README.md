@@ -20,13 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img width=47% src="https://github-readme-stats-lemon-xi-ye8927adzf.vercel.app/api?username=xXDavisitoXx&theme=neon&show_icons=true&count_private=true"/>
-  <img width=51% src="https://github-readme-stats-lemon-xi-ye8927adzf.vercel.app/api/top-langs/?username=xXDavisitoXx&layout=compact&theme=neon&show_icons=true&count_private=true"/>
+  <img width=47% src="https://github-readme-stats-five-gules-89.vercel.app/api?username=XXDavisitoXX&theme=neon&show_icons=true&count_private=true"/>
+  <img width=51% src="https://github-readme-stats-five-gules-89.vercel.app/api/top-langs/?username=XXDavisitoXX&layout=compact&theme=neon&show_icons=true&count_private=true"/>
 </div>
 
-
-
-<div align="center">
-  <img width=47% src="https://github-readme-stats-lemon-xi-ye8927adzf.vercel.app/api?username=xXRagn0kXx&theme=neon&show_icons=true&count_private=true"/>
-  <img width=51% src="https://github-readme-stats-lemon-xi-ye8927adzf.vercel.app/api/top-langs/?username=xXRagn0kXx&layout=compact&theme=neon&show_icons=true&count_private=true"/>
-</div>
