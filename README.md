@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="./images/xXDavisitoXx_Cover.png" alt="xXDavisitoXx_Cover"/>
+  <img src="./Images/xXDavisitoXx_Cover.png" alt="xXDavisitoXx_Cover"/>
 </div>
 
 <div align="center">
