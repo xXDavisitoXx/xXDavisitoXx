@@ -39,16 +39,3 @@ Here are some ideas to get you started:
 </div>
 -----------------------------------------------------------
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border: none !important; border-collapse: collapse !important;">
-    <tr valign="top" style="border: none !important;">
-      <td style="border: none !important; padding: 0;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXDavisitoXx&theme=neon&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
-      </td>
-      <td width="25" style="border: none !important; padding: 0;"></td>
-      <td style="border: none !important; padding: 0;">
-        <img src="https://raw.githubusercontent.com/xXDavisitoXx/repo-metrics/master/github-metrics.svg" alt="Repo Metrics" />
-      </td>
-    </tr>
-  </table>
-</div>
