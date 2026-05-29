@@ -30,8 +30,21 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img width=44% src="https://github-readme-streak-stats.herokuapp.com/?user=xXDavisitoXx&theme=neon&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
-  </div>
-  <div align="center">
   <img width=49% src="https://raw.githubusercontent.com/xXDavisitoXx/repo-metrics/master/github-metrics.svg"/>
+</div>
+
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr valign="top">
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXDavisitoXx&theme=neon&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+      </td>
+      <td width="20"></td>
+      <td>
+        <img src="https://raw.githubusercontent.com/xXDavisitoXx/repo-metrics/master/github-metrics.svg" alt="Repo Metrics" />
+      </td>
+    </tr>
+  </table>
 </div>
 
