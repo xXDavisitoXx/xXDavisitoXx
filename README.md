@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <table border="0" cellpadding="0" cellspacing="0">
     <tr valign="top">
       <td>
-        <img src="https://github-readme-stats-tau-ten-74.vercel.app/api?username=xXDavisitoXx&theme=neon&show_icons=true&count_private=true" /><br><br>
+        <img src="https://github-readme-stats-tau-ten-74.vercel.app/api?username=xXDavisitoXx&theme=neon&show_icons=true&count_private=true&card_width=535" /><br><br>
         <img src="https://github-readme-stats-five-gules-89.vercel.app/api/top-langs/?username=xXDavisitoXx&layout=compact&theme=neon&show_icons=true&count_private=true" /><br><br>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXDavisitoXx&theme=neon&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
       </td>
