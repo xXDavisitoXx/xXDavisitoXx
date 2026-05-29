@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="./Images/xXDavisitoXx_Cover.png" alt="xXDavisitoXx_Cover"/>
+</div>
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
