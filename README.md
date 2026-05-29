@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-five-gules-89.vercel.app/api/streak/?user=xXDavisitoXx&theme=neon&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/xXDavisitoXx/repo-metrics/master/github-metrics.svg"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXDavisitoXx&theme=neon&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+  <br><br>
   <img src="https://raw.githubusercontent.com/xXDavisitoXx/repo-metrics/master/github-metrics.svg"/>
 </div>
