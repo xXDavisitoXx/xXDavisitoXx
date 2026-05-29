@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXDavisitoXx&theme=neon&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/xXDavisitoXx/repo-metrics/master/github-metrics.svg"/>
+  <img width=44% src="https://github-readme-streak-stats.herokuapp.com/?user=xXDavisitoXx&theme=neon&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+  <img width=49% src="https://raw.githubusercontent.com/xXDavisitoXx/repo-metrics/master/github-metrics.svg"/>
 </div>
