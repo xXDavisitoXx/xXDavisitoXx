@@ -29,7 +29,6 @@ Here are some ideas to get you started:
       <td width="20"></td>
       <td>
         <img src="https://raw.githubusercontent.com/xXDavisitoXx/metrics/master/github-metrics.svg" alt="Metrics" />
-        ![Metrics](https://raw.githubusercontent.com/xXDavisitoXx/metrics/master/github-metrics.svg)
       </td>
     </tr>
   </table>
